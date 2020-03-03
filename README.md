@@ -1,0 +1,2 @@
+## Bitwise
+### Solving a couple common problems using only bitwise operator instead of arithmetic operators like +-*/ etc. Using bitwise operators is better performance but less readability and usually much more complex.
